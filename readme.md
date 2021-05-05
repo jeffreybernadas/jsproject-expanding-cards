@@ -21,3 +21,4 @@ This is just a simple project however it is always nice to program things repeat
 - Adding a class to a specified element.
 
 ### Deployment
+https://bernz322.github.io/jsproject-expanding-cards/
